@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Giannis Antetokounmpo",
+    "image": "https://usatftw.files.wordpress.com/2017/10/usp_nba__preseason-milwaukee_bucks_at_chicago_bull_94389403.jpg?w=2000&h=1200&crop=1",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Ben Simmons",
+    "image": "https://usatftw.files.wordpress.com/2017/09/ben-simmons.jpg?w=2000&h=1406",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Russ Westbrooke",
+    "image": "https://usatftw.files.wordpress.com/2017/09/westbrook-thunder.jpg?w=2000&h=1406",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Stefan Curry",
+    "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F693611404%2F960x0.jpg%3Ffit%3Dscale",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Lebron James",
+    "image": "https://usatftw.files.wordpress.com/2018/05/usatsi_10847166.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Khawi Lenard",
+    "image": "https://www.kens5.com/img/resize/content.kens5.com/photo/2017/01/26/Kawhi%20solo_1485462945747_7935590_ver1.0.jpg?mode=pad&bgcolor=000000&scale=both&width=750&height=422",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Anthony Davis",
+    "image": "https://img.playbuzz.com/image/upload/ar_1,c_crop/q_auto:good,f_auto,fl_lossy,w_640,c_limit/v1510582444/ww5nsgollywydw2mtzob.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name:": "Blake Griffen",
+    "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-s3.si.com%2Fs3fs-public%2Fstyles%2Fmarquee_large_2x%2Fpublic%2F2016%2F09%2F14%2Fblake-griffin-clippers-nba-top-100.jpg%3Fitok%3DBnIVgBYD&w=1600&q=70",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Kyrie Irvig",
+    "image": "http://images.performgroup.com/di/library/omnisport/1f/37/irving-kyrie-usnews-getty-ftr_1apvmmmdgk9pu1f07zmbm5ugg6.jpg?t=-1945979623&w=960&quality=70",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Dwyane Wade",
+    "image": "https://uproxx.files.wordpress.com/2018/04/gettyimages-937905640.jpg?quality=95&w=650",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Kevin Durant",
+    "image": "https://www.nbcsports.com/bayarea/sites/csnbayarea/files/styles/article_hero_image/public/2018/12/24/kdsmileus.jpg?itok=451P-KiV",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "James Harden",
+    "image": "https://img.playbuzz.com/image/upload/ar_1,c_crop/q_auto:good,f_auto,fl_lossy,w_640,c_limit/v1510582396/pgr1xuhh1nnr3k0mfimz.png",
+    "clicked": false
+  }
+]
